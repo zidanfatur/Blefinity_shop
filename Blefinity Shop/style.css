@@ -1,0 +1,149 @@
+.home-satu {
+	background-color: #eddcd2;
+	border-radius: 10px;
+	width: 80px;
+	height: 50px;
+}
+
+.produk-satu {
+	background-color: #eddcd2;
+	border-radius: 10px;
+	width: 80px;
+	height: 50px;
+}
+
+.body-satu {
+	background-image: url('logo.png');
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-atas {
+	background-image: url('polos.jpg');
+}
+
+.tentang-kami {
+	background-color: white;
+	width: 1000px;
+	height: 250px;
+	border-radius: 10px;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+	font-size: 22;
+	font-family: gabriola;
+	font-weight: bolder;
+	opacity: 60%;
+}
+
+.a-navbar {
+	text-decoration: none;
+}
+
+.th-satu {
+	margin: 5px;
+}
+
+.table-bawah {
+	justify-content: center;
+}
+
+.a-link {
+	text-decoration: none;
+	justify-content: center;
+	align-items: center;
+	font-size: 15;
+}
+
+.body-produk {
+	background-image: url('bg.jpg');
+}
+
+.table-produk{
+	background-color: #f3ffe3;
+	width: 1200px;
+	height: 125px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.home-produk {
+	background-color: white;
+	border-radius: 10px;
+	width: 80px;
+	height: 40px;
+	margin: 10px;
+}
+
+.p-produk{
+	font-family: calibri;
+}
+
+.img-produk {
+	width: 80%;
+	height:80%;
+}
+
+.td-konten {
+	background-color: white;
+	height: 350px;
+	width: 340px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.ig-konten{
+	background-color: white;
+	height: 20px;
+	width: 340px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.submit-button {
+	background-color: #086623;
+	color: white;
+	border-radius: 5px;
+	border: none;
+}
+
+.a-mesir {
+	background-color: #086623;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	padding: 10px;
+	font-size: 18;
+	float: right;
+}
+
+.a-kiri {
+	background-color: #086623;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	padding: 10px;
+	font-size: 18;
+	float: left;
+}
+
+.a-produk {
+	background-color: #086623;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	padding: 10px;
+	font-size: 18;
+}
